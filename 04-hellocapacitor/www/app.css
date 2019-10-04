@@ -1,0 +1,19 @@
+ion-title {
+  text-align: center;
+  font-weight: bold;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 22px;
+  padding: 1rem;
+}
+
+.brief {
+  font-size: 18px;
+  padding: 0 1rem 1rem 1rem;
+}
+
+ion-card {
+  margin-bottom: 3rem !important;
+}
