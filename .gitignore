@@ -2,3 +2,4 @@ Application-Conference/
 node_modules/
 electron/
 android/
+.idea
